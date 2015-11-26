@@ -210,3 +210,4 @@
 - [rainyday.js](https://github.com/maroslaw/rainyday.js) - rain
 - [JQuery-Snowfall](https://github.com/loktar00/JQuery-Snowfall) - snow
 - [turn.js](https://github.com/blasten/turn.js) - page flip
+- [Legofy](https://github.com/Wildhoney/Legofy) - Legofy
